@@ -1,0 +1,3 @@
+create database
+table
+use delete update drop insert select from where values int float char varchar real and or not null into set

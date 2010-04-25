@@ -1,0 +1,11 @@
+TUDO:
+create database table use delete update drop insert select from where values int float char varchar real and or not null \ | , < . > ; : / ? ° ^ ~ ] } º ´ ` [ { ª - _ + = § ' " ! @ # $ % ¨ & * ( ) ¹ ² ³ £ ¢ ¬
+
+Caracteres Aceitos
+, < . > ; / - + = ' * ( )
+
+Caracteres Não Aceitos
+¹ ² ³ £ ¢ ¬ ! @ # $ % ¨ & § _ \ | : ? ° ^ ~ ] } º ´ ` [ { ª "
+
+Vai ter que ser tratados diferentes, talvez afastados dos caracteres aceitos:
+; / '

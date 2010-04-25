@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorSintatico
+END
+VerificadorDeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorSintatico/VerificadorDeToken.java
+END
+AnaliseSintatica.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorSintatico/AnaliseSintatica.java
+END
+AnaliseSintaticaInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorSintatico/AnaliseSintaticaInterface.java
+END

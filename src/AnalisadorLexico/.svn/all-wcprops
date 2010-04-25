@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico
+END
+AnaliseLexica.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico/AnaliseLexica.java
+END
+CadeiaDeTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico/CadeiaDeTokens.java
+END
+AnaliseLexicaInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico/AnaliseLexicaInterface.java
+END
+VerificadorDeChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico/VerificadorDeChar.java
+END
+TabelaDeSimbolos.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/GoogleCode-CompiladorSQL/src/AnalisadorLexico/TabelaDeSimbolos.java
+END
